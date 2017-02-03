@@ -1,0 +1,44 @@
+                     
+ _____  ____   ____  
+|_   _|| __ ) | __ ) 
+  | |  |  _ \ |  _ \ 
+  | |  | |_) || |_) |
+  |_|  |____/ |____/ 
+                     
+
+The humans.txt file explains the team, technology,
+and graphic assets behind this site.
+
+_______________________________________________________________________________
+
+TBB TEAM
+This website was hand-crafted by TBB based on nixon (https://github.com/spf13).
+
+_______________________________________________________________________________
+
+TECHNOLOGY
+
+Hugo - Static site generator
+gohugo.io
+
+LESS - CSS pre-processor
+lesscss.org
+
+Handlebars - Semantic templates
+handlebarsjs.com
+
+Github - Code collaboration
+github.com
+
+JS libraries include:
+jQuery, Modernizr, respond.js, velocity-animate, slick-carousel
+
+_______________________________________________________________________________
+
+FONTS
+
+Raleway
+fonts.google.com/specimen/Raleway
+
+spf13
+https://github.com/spf13

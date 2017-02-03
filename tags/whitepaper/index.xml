@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TBB</title>
+    <link>https://tbbone.github.io/tags/whitepaper/index.xml</link>
+    <description>Recent content on TBB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 20YY, TBB; all rights reserved.</copyright>
+    <atom:link href="https://tbbone.github.io/tags/whitepaper/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>TBB Whitepapers</title>
+      <link>https://tbbone.github.io/resources/all-whitepapers/</link>
+      <pubDate>Thu, 24 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbbone.github.io/resources/all-whitepapers/</guid>
+      <description>
+
+&lt;h1 id=&#34;tbb-whitepapers-collateral&#34;&gt;TBB Whitepapers/Collateral&lt;/h1&gt;
+
+&lt;p&gt;Please find the relevant whitepapers and funding  collateral for TBB.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-blockchain-brokerage-whitepaper&#34;&gt;The Blockchain Brokerage Whitepaper&lt;/h3&gt;
+
+&lt;p&gt;TBB whitepaper explains the core concepts of TBB with regards to technology, regulatory and corporate structure of its opearations.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://tbbone.github.io/resources/The_Blockchain_Brokerage_White_Paper.pdf&#34;&gt;The Blockchain Brokerage Whitepaper&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;tbb-pre-ico-term-sheet&#34;&gt;TBB Pre-ICO Term Sheet&lt;/h3&gt;
+
+&lt;p&gt;Pre-ICO Term sheet outlines the funding structure, governance and liquidation preference.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://tbbone.github.io/resources/TBB_Pre-ICO_Term_Sheet.pdf&#34;&gt;TBB Pre-ICO Term Sheet&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;tbb-token-sale-and-purchase-agreement&#34;&gt;TBB Token Sale and Purchase Agreement&lt;/h3&gt;
+
+&lt;p&gt;TBB Token Sale and Purchase Agreement explains the TBBSAR token sale and purchase agreement between buyer (&amp;ldquo;Invtesors/Pre-ICO participants&amp;rdquo;) and seller (&amp;ldquo;TBB&amp;rdquo;).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://tbbone.github.io/resources/TBB_Token_Sale_and_Purchase_Agreement.pdf&#34;&gt;TBB Token Sale and Purchase Agreement&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;procedure-for-participating-in-tbb-sar&#34;&gt;Procedure for participating in TBB SAR&lt;/h3&gt;
+
+&lt;p&gt;This is a step-by-step guidance to assist purchasing TBBSAR tokens&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://tbbone.github.io/resources/Procedure_for_TBBSAR.pdf&#34;&gt;Procedure for participating in TBB SAR&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
